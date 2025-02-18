@@ -1,2 +1,1 @@
-#!bin/bash
-README
+Scripts for running permissions in linux
